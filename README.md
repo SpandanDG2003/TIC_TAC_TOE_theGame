@@ -18,6 +18,7 @@ No external libraries. No frameworks. Just pure Java and passion! ❤️
 
 🚀 How to Run
 Download or clone this repo:
+https://github.com/SpandanDG2003/TIC_TAC_TOE_theGame.git
 
 Open the project in your favorite Java IDE (like VSCode or IntelliJ).
 Run the Main.java file.
