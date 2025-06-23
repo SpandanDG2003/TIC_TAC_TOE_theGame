@@ -13,8 +13,15 @@ Whether you're bored or just want to test your luck and strategy, this game is h
 
 🛠️ Built With
 Java (Core Concepts)
+Core Java – backend logic and structure
 Java Swing for the GUI
-No external libraries. No frameworks. Just pure Java and passion! ❤️
+JavaScript – handles interactivity and user events
+CSS – styles the game board and animations
+HTML – for page structure
+
+✅ No external libraries
+✅ No frameworks
+✅ 100% handcrafted code
 
 🚀 How to Run
 Download or clone this repo:
